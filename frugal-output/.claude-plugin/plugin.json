@@ -1,0 +1,8 @@
+{
+  "name": "frugal-output",
+  "description": "Apply frugal output style to Claude responses",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mr. Lai"
+  }
+}
