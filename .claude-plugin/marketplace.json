@@ -1,0 +1,17 @@
+{
+  "name": "my-claude-plugins",
+  "owner": {
+    "name": "Developer",
+    "email": "noreply@example.com"
+  },
+  "plugins": [
+    {
+      "name": "frugal-output",
+      "source": "./frugal-output"
+    }
+  ],
+  "metadata": {
+    "description": "Personal collection of Claude Code plugins",
+    "version": "1.0.0"
+  }
+}
